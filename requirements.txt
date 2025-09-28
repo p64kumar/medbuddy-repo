@@ -1,0 +1,11 @@
+# Backend deps
+fastapi
+uvicorn
+sqlmodel
+passlib[bcrypt]
+python-jose[cryptography]
+
+# Mobile deps
+kivy
+requests
+plyer
